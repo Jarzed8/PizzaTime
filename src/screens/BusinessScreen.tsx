@@ -11,7 +11,7 @@ export interface BusinessProps {
     route: BusinessScreenRouteProp
 }
 
-export function distanceToMiles(distance: number): string {
+function distanceToMiles(distance: number): string {
     const meters = Math.floor(distance);
     return (meters / 1609).toFixed(2);
 }
