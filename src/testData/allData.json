@@ -1,0 +1,72 @@
+{
+    "data": {
+        "overallRating": 3,
+        "cookness": 1,
+        "cheeseRating": 5,
+        "sauceRating": 1
+    },
+    "pieData": [
+        {
+            "name": "Peperoni",
+            "count": 50,
+            "color": "red"
+        },
+        {
+            "name": "Cheese",
+            "count": 51,
+            "color": "yellow"
+        },
+        {
+            "name": "Meatball",
+            "count": 13,
+            "color": "brown"
+        },
+        {
+            "name": "Pepper and Onion",
+            "count": 35,
+            "color": "green"
+        },
+        {
+            "name": "Alfredo",
+            "count": 8,
+            "color": "lightgrey"
+        }
+    ],
+    "reviews": [
+        {
+            "userName": "Jayzee",
+            "rating": 2,
+            "review": "This place is ok i guess asdfasdf"
+        },
+        {
+            "userName": "Goosejs",
+            "rating": 1,
+            "review": "Im very happy"
+        },
+        {
+            "userName": "Stordy",
+            "rating": 3,
+            "review": "Place has great pizza"
+        },
+        {
+            "userName": "Caught in a 'lanche",
+            "rating": 4,
+            "review": "saldkfhjaskljd"
+        },
+        {
+            "userName": "Steen",
+            "rating": 4,
+            "review": "saldkfhjaskljasdfasdfd"
+        },
+        {
+            "userName": "Mick",
+            "rating": 2,
+            "review": "askdfhjbaosiudfbikasjobdfjlkhasbdfljkhabsdfljhbasjdfbhasljdfhb"
+        },
+        {
+            "userName": "Pookie",
+            "rating": 1,
+            "review": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ]
+}
